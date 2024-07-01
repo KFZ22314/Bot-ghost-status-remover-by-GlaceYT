@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Wycina ruter cwelom","https://discord.gg/2ntUCKhHWg"];
 
 
 let currentIndex = 0;
