@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Wypierdala rutery cwelą","https://discord.gg/2ntUCKhHWg"];
 
 
 let currentIndex = 0;
